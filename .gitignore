@@ -1,1 +1,7 @@
-data
+/data
+/data/*
+*.zip
+__pycache__
+old
+img
+ssh
